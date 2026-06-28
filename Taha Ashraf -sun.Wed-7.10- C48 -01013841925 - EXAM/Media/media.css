@@ -1,0 +1,3092 @@
+
+@media screen and (max-width: 1399.98px) {
+
+    .navbar {
+        padding-left: 80px !important;
+        padding-right: 80px !important;
+    }
+
+    .navbar .dropdown-menu {
+        width: 100% !important;
+        left: 0 !important;
+        right: 0 !important;
+    }
+
+    .mega-menu {
+        left: 0 !important;
+        width: 100% !important;
+        padding: 24px !important;
+    }
+
+    .hero-cotainer {
+        width: 90%;
+    }
+
+    .Right-hero-container {
+        width: 480px;
+        height: 480px;
+        padding: 24px;
+    }
+
+    .behind-the-scene {
+        width: 480px;
+        height: 482px;
+    }
+
+    .left-hero-container h3{
+        font-size: 3rem;
+    }
+
+    .left-hero-container h4 {
+        font-size: 3rem;
+    }
+
+    .left-hero-container .h5-special {
+        font-size: 3rem;
+    }
+
+    .collection-groupe {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .collection-groupe .card {
+        width: 100% !important;
+        height: auto !important;
+        min-height: 380px;
+    }
+
+    .technology .slider-tabs {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .Testimonials .carousel-inner {
+        width: 100%;
+        height: auto;
+        min-height: 380px;
+        padding: 30px;
+    }
+
+    .the-FAQ-list .accordion {
+        width: 100%;
+    }
+
+    .the-contact-container {
+        width: 100%;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .consultation-div {
+        width: 100%;
+        padding: 32px;
+    }
+
+    .Satisfaction-div {
+        width: 100%;
+        height: auto;
+        border-radius: 0 0 16px 16px;
+        padding: 40px;
+    }
+
+    .the-footer-header
+    {
+        width: 90%;
+    }
+
+    .last-stand {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 1199.98px) {
+    .navbar {
+        padding-left: 40px !important;
+        padding-right: 40px !important;
+        height: 72px !important;
+    }
+
+    .navbar-brand {
+        font-size: 1.3rem;
+    }
+
+    .collapse ul li a {
+        font-size: 0.95rem !important;
+    }
+
+    .hero {
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+
+    .hero-cotainer {
+        width: 95%;
+        padding-top: 40px;
+        flex-direction: column;
+    }
+
+    .left-hero-container {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .left-hero-container h3
+ {
+        font-size: 2.8rem;
+    }
+
+    .left-hero-container h4{
+        font-size: 2.8rem;
+    }
+
+    .left-hero-container .h5-special {
+        font-size: 2.8rem;
+    }
+
+    .Right-hero-container {
+        width: 100%;
+        max-width: 540px;
+        height: auto;
+        aspect-ratio: 1/1;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    .behind-the-scene {
+        width: 100%;
+        max-width: 540px;
+        height: auto;
+        aspect-ratio: 1/1;
+        transform: rotate(2deg);
+    }
+
+    .right-container-buttons .btn {
+        height: 56px;
+        width: 220px;
+        font-size: 1rem;
+    }
+
+    .Watch-demo-btn {
+        width: 190px !important;
+        font-size: 1rem !important;
+    }
+
+    #services {
+        padding-top: 70px;
+        padding-bottom: 80px;
+    }
+
+    .services-header h2 {
+        font-size: 2.5rem;
+    }
+
+    .collection-groupe {
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-top: 30px;
+    }
+
+    .collection-groupe .card {
+        padding: 24px;
+        min-height: 340px;
+    }
+
+    #technology {
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+
+    .technology .slider-tabs {
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-top: 40px;
+    }
+
+    .technology .slider-tabs .card {
+        width: 100%;
+        height: auto;
+        min-height: 280px;
+        padding: 24px;
+    }
+
+    .technology .slider-tabs ul li {
+        width: 100%;
+    }
+
+    .technology .slider-tabs ul li button {
+        font-size: 1rem;
+        padding: 14px 12px;
+    }
+
+    #Testimonials {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .Testimonials .carousel-inner {
+        padding: 24px;
+        min-height: 340px;
+    }
+
+    .the-final-slider blockquote {
+        font-size: 1.1rem;
+    }
+
+    #FAQ {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .services-header h3 {
+        font-size: 2.5rem;
+    }
+
+    .the-FAQ-list .accordion-item button {
+        font-size: 1rem;
+        padding: 30px 20px !important;
+    }
+
+    #Contact {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .services-header-3 h2 {
+        font-size: 3.5rem;
+    }
+
+    .services-header-3 h3 {
+        font-size: 3.5rem;
+        transform: translateY(-12px);
+    }
+
+    .services-header-3 p {
+        font-size: 1.2rem;
+    }
+
+    .the-contact-container {
+        flex-direction: column;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .consultation-div {
+        padding: 28px;
+    }
+
+    .Satisfaction-div {
+        border-radius: 0 0 16px 16px;
+        height: auto;
+        padding: 32px;
+    }
+
+    #footer {
+        padding-top: 40px;
+    }
+
+    .the-footer-header {
+        width: 95%;
+    }
+
+    .last-stand {
+        width: 95%;
+    }
+}
+
+@media screen and (max-width: 991.98px) {
+    .navbar {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+        height: 64px !important;
+    }
+
+    .navbar button {
+        width: 120px;
+        height: 40px;
+        font-size: 0.9rem;
+    }
+
+    .navbar form h5 {
+        font-size: 0.85rem;
+        transform: translateX(5px);
+    }
+
+    .collapse ul li a {
+        font-size: 0.9rem !important;
+        padding: 8px 0 !important;
+    }
+
+    .navsquare {
+        height: 34px;
+        width: 34px;
+    }
+
+    .clart {
+        font-size: 1.3rem;
+    }
+
+    .hero {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+
+    .hero-cotainer {
+        padding-top: 30px;
+    }
+
+    .left-hero-container h3 {
+        font-size: 2.2rem;
+    }
+
+    .left-hero-container h4
+ {
+        font-size: 2.2rem;
+    }
+
+    .left-hero-container .h5-special {
+        font-size: 2.2rem;
+    }
+
+    .left-hero-container .p-special {
+        font-size: 1rem;
+    }
+
+    .Digital-Experience {
+        width: 240px;
+        font-size: 12px;
+    }
+
+    .Right-hero-container {
+        max-width: 440px;
+        padding: 16px;
+    }
+
+    .right-container-buttons {
+        flex-direction: column;
+        gap: 12px !important;
+    }
+
+    .right-container-buttons .btn {
+        width: 100% !important;
+        max-width: 280px;
+        height: 50px;
+        font-size: 0.95rem;
+    }
+
+    .Watch-demo-btn {
+        width: 100% !important;
+        max-width: 280px !important;
+    }
+
+    .Clitent-satisication h5 {
+        font-size: 1.5rem;
+        margin-left: 15px;
+    }
+
+    .Clitent-satisication p {
+        font-size: 0.9rem;
+    }
+
+    .the-first-here-square {
+        width: 70px;
+        height: 70px;
+        transform: translate(16px, -4px);
+    }
+
+    .the-second-here-square {
+        width: 60px;
+        height: 60px;
+        transform: translate(-16px, -8px);
+    }
+
+    #services {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+
+    .our-div {
+        width: 120px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+    }
+
+    .our-div span {
+        font-size: 0.8rem;
+    }
+
+    .services-header h2 {
+        font-size: 2rem;
+        margin-top: 12px;
+    }
+
+    .services-header p {
+        font-size: 1rem;
+    }
+
+    .collection-groupe {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .collection-groupe .card {
+        min-height: 300px;
+        padding: 20px;
+    }
+
+    .collection-groupe .card h3 {
+        font-size: 1.1rem;
+        margin-top: 18px;
+    }
+
+    .collection-groupe .card p {
+        font-size: 0.9rem;
+    }
+
+    .first-card-square {
+        width: 50px;
+        height: 50px;
+    }
+
+    .Second-card-square {
+        width: 50px;
+        height: 50px;
+    }
+
+    .third-card-square{
+        width: 50px;
+        height: 50px;
+    }
+
+    .fourth-card-square
+ {
+        width: 50px;
+        height: 50px;
+    }
+
+    .fifth-card-square {
+        width: 50px;
+        height: 50px;
+    }
+
+
+    #technology {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+
+    .our-div-2 {
+        width: 150px;
+    }
+
+    .our-div-2 span {
+        font-size: 0.8rem;
+    }
+
+    .technology .slider-tabs {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .technology .slider-tabs .card {
+        min-height: 260px;
+        padding: 20px;
+    }
+
+    .technology .slider-tabs h2 {
+        font-size: 1.2rem;
+        margin-top: 14px;
+    }
+
+    .technology .slider-tabs p {
+        font-size: 1rem;
+    }
+
+    .technology .card h3 {
+        font-size: 1.1rem;
+        margin-top: 18px;
+    }
+
+    .technology .card h4 {
+        font-size: 0.9rem;
+    }
+
+    .js-square
+ {
+        width: 54px;
+        height: 54px;
+        font-size: 0.8rem !important;
+    }
+   
+    .Next-square
+    {
+        width: 54px;
+        height: 54px;
+        font-size: 0.8rem !important;
+    }
+
+    .Vue-square {
+        width: 54px;
+        height: 54px;
+        font-size: 0.8rem !important;
+    }
+
+    .Angular-square{
+        width: 54px;
+        height: 54px;
+        font-size: 0.8rem !important;
+    }
+
+    .Tailwind-square{
+        width: 54px;
+        height: 54px;
+        font-size: 0.8rem !important;
+    }
+
+    .Vite-square {
+        width: 54px;
+        height: 54px;
+        font-size: 0.8rem !important;
+    }
+
+    .technology .nav-tabs .nav-link {
+        font-size: 0.9rem !important;
+        padding: 12px 10px !important;
+    }
+
+    #Testimonials {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .Testimonials .carousel-inner {
+        padding: 20px;
+        min-height: 300px;
+    }
+
+    .the-final-slider blockquote {
+        font-size: 1rem;
+    }
+
+    .final-square {
+        width: 54px;
+        height: 54px;
+    }
+
+    .footer-profile-photo {
+        width: 70px;
+        height: 70px;
+    }
+
+    .CV-div h3 {
+        font-size: 1rem;
+    }
+
+    .CV-div h4 {
+        font-size: 0.9rem;
+    }
+
+    .second-footer-part h3 {
+        font-size: 1.5rem;
+    }
+
+    #FAQ {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .our-div-3 {
+        width: 85px;
+    }
+
+    .our-div-3 span {
+        font-size: 0.8rem;
+    }
+
+    .services-header h3 {
+        font-size: 2rem;
+        margin-top: 12px;
+    }
+
+    .the-FAQ-list {
+        margin-top: 40px;
+    }
+
+    .the-FAQ-list .accordion-item button {
+        font-size: 0.95rem;
+        padding: 24px 16px !important;
+    }
+
+    .the-FAQ-list .accordion-body {
+        font-size: 0.9rem;
+    }
+
+    .instaed-arrow {
+        height: 32px;
+        width: 34px;
+        min-width: 34px;
+    }
+
+    #Contact {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .our-div-3 {
+        width: 180px;
+    }
+
+    .services-header-3 h2 {
+        font-size: 2.8rem;
+    }
+
+    .services-header-3 h3 {
+        font-size: 2.8rem;
+        transform: translateY(-8px);
+    }
+
+    .services-header-3 p {
+        font-size: 1rem;
+    }
+
+    .the-contact-container {
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 40px;
+    }
+
+    .consultation-div {
+        padding: 20px;
+    }
+
+    .consultation-div h3 {
+        font-size: 1.3rem;
+    }
+
+    .consultation-div p {
+        font-size: 1rem;
+    }
+
+    .the-contact-container .Special-input input{
+        height: 50px;
+        border-radius: 14px;
+        font-size: 0.9rem;
+    }
+
+    .the-contact-container form select {
+        height: 50px;
+        border-radius: 14px;
+        font-size: 0.9rem;
+    }
+
+    .the-contact-container form textarea {
+        height: 50px;
+        border-radius: 14px;
+        font-size: 0.9rem;
+    }
+
+    .the-contact-container form textarea {
+        height: 120px;
+    }
+
+    .budget-card {
+        width: 100%;
+        height: auto;
+        padding: 14px;
+        margin-bottom: 8px;
+    }
+
+    .budget-card h5 {
+        font-size: 0.9rem;
+    }
+
+    .budget-card p {
+        font-size: 0.8rem;
+    }
+
+    .Satisfaction-div {
+        padding: 28px;
+    }
+
+    .Satisfaction-div h2 {
+        font-size: 1.3rem;
+    }
+
+    .clock-square {
+        width: 65px;
+        height: 42px;
+    }
+
+    .clock-square-2
+{
+        width: 65px;
+        height: 42px;
+    }
+
+    .clock-square-3 {
+        width: 65px;
+        height: 42px;
+    }
+
+    .hours-letters h3 {
+        font-size: 0.9rem;
+    }
+
+    .hours-letters p {
+        font-size: 0.8rem;
+    }
+
+    .direct-contacts h3 {
+        font-size: 0.9rem;
+    }
+
+    .direct-contacts span {
+        font-size: 0.9rem;
+    }
+
+    .the-contact-container form .btn {
+        height: 56px;
+        font-size: 1rem;
+    }
+
+    #footer {
+        padding-top: 30px;
+    }
+
+    .last-footer-square {
+        height: 36px;
+        width: 36px;
+    }
+
+    .ddive h3 {
+        font-size: 1.1rem;
+        margin-left: 8px;
+    }
+
+    .hullbreaker p {
+        font-size: 0.8rem;
+    }
+
+    .social-square {
+        width: 34px;
+        height: 34px;
+        margin-right: 10px;
+    }
+
+    .social-square i {
+        font-size: 0.9rem !important;
+    }
+
+    .last-stand h3 {
+        font-size: 0.8rem;
+    }
+
+    .last-stand p {
+        font-size: 0.7rem;
+    }
+}
+
+
+@media screen and (max-width: 699.98px) {
+    .navbar {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+        height: 56px !important;
+    }
+
+    .navbar-brand {
+        font-size: 1rem;
+    }
+
+    .navsquare {
+        height: 28px;
+        width: 28px;
+        border-radius: 8px;
+    }
+
+    .clart {
+        font-size: 1rem;
+    }
+
+    .navbar button {
+        width: 90px;
+        height: 34px;
+        font-size: 0.75rem;
+        border-radius: 8px !important;
+    }
+
+    .navbar form h5 {
+        font-size: 0.7rem;
+        transform: translateX(3px);
+    }
+
+    .collapse ul li a {
+        font-size: 0.85rem !important;
+        padding: 6px 0 !important;
+    }
+
+    .hero {
+        padding-top: 25px;
+        padding-bottom: 35px;
+    }
+
+    .hero-cotainer {
+        padding-top: 15px;
+        padding-left: 10px;
+        padding-right: 10px;
+        width: 100%;
+    }
+
+    .left-hero-container h3 {
+        font-size: 1.6rem;
+        line-height: 1.2;
+    }
+
+    .left-hero-container h4 {
+        font-size: 1.6rem;
+        line-height: 1.2;
+    }
+
+    .left-hero-container .h5-special {
+        font-size: 1.6rem;
+        line-height: 1.2;
+    }
+
+    .left-hero-container .p-special {
+        font-size: 0.85rem;
+        line-height: 1.5;
+        margin-top: 8px;
+    }
+
+    .Digital-Experience {
+        width: 180px;
+        font-size: 10px;
+        padding-bottom: 3px;
+    }
+
+    .Digital-Experience p {
+        font-size: 10px;
+        transform: translateY(-1px);
+    }
+
+    .Right-hero-container {
+        padding: 10px;
+        border-radius: 12px;
+        max-width: 100%;
+        aspect-ratio: 1/1;
+    }
+
+    .behind-the-scene {
+        border-radius: 12px;
+        transform: rotate(1deg);
+    }
+
+    .right-container-buttons {
+        flex-direction: column;
+        gap: 10px !important;
+        align-items: center !important;
+    }
+
+    .right-container-buttons .btn {
+        height: 40px;
+        width: 100% !important;
+        max-width: 200px;
+        font-size: 0.8rem;
+        border-radius: 8px !important;
+    }
+
+    .Watch-demo-btn {
+        max-width: 200px !important;
+        font-size: 0.8rem !important;
+        padding-left: 8px !important;
+        border-width: 1.5px !important;
+    }
+
+    .Clitent-satisication {
+        flex-direction: column;
+        align-items: flex-start !important;
+        gap: 2px !important;
+        margin-top: 8px;
+    }
+
+    .Clitent-satisication h5 {
+        font-size: 1.2rem;
+        margin-left: 0;
+    }
+
+    .Clitent-satisication p {
+        font-size: 0.8rem;
+        margin-bottom: 0;
+    }
+
+    .the-first-here-square {
+        width: 40px;
+        height: 40px;
+        transform: translate(8px, -2px);
+    }
+
+    .the-second-here-square {
+        width: 35px;
+        height: 35px;
+        transform: translate(-8px, -4px);
+        border-radius: 8px;
+    }
+
+    #services {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+
+    .our-div {
+        width: 90px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+    }
+
+    .our-div span {
+        font-size: 0.65rem;
+    }
+
+    .services-header h2 {
+        font-size: 1.5rem;
+        margin-top: 8px;
+    }
+
+    .services-header p {
+        font-size: 0.85rem;
+        margin-top: 4px;
+    }
+
+    .collection-groupe {
+        padding-left: 6px;
+        padding-right: 6px;
+        margin-top: 15px;
+        gap: 10px !important;
+    }
+
+    .collection-groupe .card {
+        min-height: 200px;
+        padding: 14px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+    }
+
+    .collection-groupe .card h3 {
+        font-size: 0.9rem;
+        margin-top: 10px;
+    }
+
+    .collection-groupe .card h4 {
+        font-size: 13px;
+        transform: translateY(4px);
+    }
+
+    .collection-groupe .card p {
+        font-size: 0.75rem;
+        margin-top: 4px;
+        line-height: 1.5;
+    }
+
+    .collection-groupe .card ul {
+        font-size: 0.75rem;
+        padding-left: 0;
+        margin-top: 0;
+    }
+
+    .collection-groupe .card ul li {
+        margin-bottom: 2px !important;
+    }
+
+    .first-card-square
+{
+        width: 36px;
+        height: 36px;
+        border-radius: 8px !important;
+    }
+
+    .Second-card-square {
+        width: 36px;
+        height: 36px;
+        border-radius: 8px !important;
+    }
+
+    .third-card-square {
+        width: 36px;
+        height: 36px;
+        border-radius: 8px !important;
+    }
+
+    .fourth-card-square{
+        width: 36px;
+        height: 36px;
+        border-radius: 8px !important;
+    }
+
+    .fifth-card-square {
+        width: 36px;
+        height: 36px;
+        border-radius: 8px !important;
+    }
+
+    #technology {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+
+    .our-div-2 {
+        width: 120px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+    }
+
+    .our-div-2 span {
+        font-size: 0.65rem;
+    }
+
+    .technology .slider-tabs {
+        padding-left: 6px;
+        padding-right: 6px;
+        margin-top: 25px;
+    }
+
+    .technology .slider-tabs .card {
+        min-height: 180px;
+        padding: 14px;
+        border-radius: 10px;
+    }
+
+    .technology .slider-tabs h2 {
+        font-size: 0.9rem;
+        margin-top: 10px;
+    }
+
+    .technology .slider-tabs p {
+        font-size: 0.8rem;
+        margin-top: 8px;
+    }
+
+    .technology .card h3 {
+        font-size: 0.85rem;
+        margin-top: 10px;
+    }
+
+    .technology .card h4 {
+        font-size: 0.75rem;
+        margin-top: 4px;
+        line-height: 1.4;
+    }
+
+    .js-square {
+        width: 36px;
+        height: 36px;
+        font-size: 0.55rem !important;
+        border-radius: 8px !important;
+    }
+
+    .Next-square{
+        width: 36px;
+        height: 36px;
+        font-size: 0.55rem !important;
+        border-radius: 8px !important;
+    }
+
+    .Vue-square {
+        width: 36px;
+        height: 36px;
+        font-size: 0.55rem !important;
+        border-radius: 8px !important;
+    }
+
+    .Angular-square {
+        width: 36px;
+        height: 36px;
+        font-size: 0.55rem !important;
+        border-radius: 8px !important;
+    }
+
+    .Tailwind-square {
+        width: 36px;
+        height: 36px;
+        font-size: 0.55rem !important;
+        border-radius: 8px !important;
+    }
+
+    .Vite-square {
+        width: 36px;
+        height: 36px;
+        font-size: 0.55rem !important;
+        border-radius: 8px !important;
+    }
+
+    .js-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+    
+    .Next-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Vue-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Angular-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Tailwind-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Vite-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Node-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Python-span-collection span{
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Golang-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+
+    .Java-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Core-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Ruby-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Native-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Flutter-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .iOS-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Android-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Xamarin-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .PWA-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Amazon-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Amazon-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Microsoft-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Google-span-collection span{
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+  
+    .Docker-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Kubernetes-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Pipeline-span-collection span{
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .PostgreSQL-span-collection span{
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .MongoDB-span-collection span{
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .Streams-span-collection span{
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .MySQL-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+    
+    .Elasticsearch-span-collection span
+ {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .GraphQL-span-collection span {
+        font-size: 0.55rem;
+        padding: 2px 6px;
+        margin-right: 3px;
+        margin-top: 6px;
+    }
+
+    .technology .nav-tabs {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        gap: 3px;
+        padding-bottom: 4px;
+    }
+
+    .technology .nav-tabs .nav-link {
+        font-size: 0.65rem !important;
+        padding: 6px 8px !important;
+        white-space: nowrap;
+    }
+
+    .technology .slider-tabs ul li button {
+        font-size: 0.7rem;
+        padding: 8px 10px;
+    }
+
+    #Testimonials {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+
+    .Testimonials .carousel-inner {
+        padding: 14px;
+        min-height: 200px;
+        border-radius: 10px;
+    }
+
+    .the-final-slider {
+        margin-top: 30px;
+    }
+
+    .the-final-slider blockquote {
+        font-size: 0.8rem;
+        line-height: 1.5;
+    }
+
+    .final-square {
+        width: 36px;
+        height: 36px;
+        border-radius: 8px !important;
+    }
+
+    .super-starts p {
+        font-size: 0.65rem;
+        margin-left: 2px;
+    }
+
+    .verified-dev {
+        width: 80px;
+        height: 26px;
+        font-size: 0.6rem;
+        padding: 8px 4px;
+        margin-top: 10px;
+    }
+
+    .rounded-check-mark {
+        height: 10px;
+        width: 10px;
+        margin-right: 5px;
+    }
+
+    .footer-profile-photo {
+        width: 45px;
+        height: 45px;
+        margin-top: 15px;
+        padding: 2px;
+    }
+
+    .the-final-square-footer {
+        margin-top: 20px;
+        flex-direction: column;
+        align-items: center !important;
+        text-align: center;
+    }
+
+    .CV-div {
+        margin-top: 15px;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .CV-div h3 {
+        font-size: 0.85rem;
+    }
+
+    .CV-div h4 {
+        font-size: 0.75rem;
+    }
+
+    .CV-div p {
+        font-size: 0.65rem;
+        letter-spacing: 0.4px;
+    }
+
+    .second-footer-part {
+        margin-top: 25px;
+        flex-direction: column;
+        align-items: center !important;
+        text-align: center;
+    }
+
+    .second-footer-part h3 {
+        font-size: 1.2rem;
+    }
+
+    .second-footer-part p {
+        font-size: 0.7rem;
+        align-self: center;
+        margin-top: 2px;
+    }
+
+    .the-moving-checkmark {
+        width: 20px;
+        height: 20px;
+        bottom: 5px;
+        left: 35px;
+        border-width: 1.5px;
+    }
+
+    .Testimonials .carousel-indicators {
+        gap: 5px;
+        margin-top: 12px;
+    }
+
+    .Testimonials .carousel-indicators button {
+        width: 5px !important;
+        height: 5px !important;
+    }
+
+    #FAQ {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+
+    .our-div-3 {
+        width: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+    }
+
+    .our-div-3 span {
+        font-size: 0.65rem;
+    }
+
+    .services-header h3 {
+        font-size: 1.4rem;
+        margin-top: 8px;
+    }
+
+    .the-FAQ-list {
+        margin-top: 25px;
+    }
+
+    .the-FAQ-list .accordion-item {
+        border-radius: 10px !important;
+        margin-bottom: 8px;
+    }
+
+    .the-FAQ-list .accordion-item button {
+        font-size: 0.8rem;
+        padding: 16px 12px !important;
+        border-radius: 10px !important;
+    }
+
+    .the-FAQ-list .accordion-body {
+        font-size: 0.75rem;
+        padding: 12px 12px !important;
+    }
+
+    .the-FAQ-list .accordion-body ul {
+        margin-top: 8px !important;
+    }
+
+    .the-FAQ-list .accordion-body ul li {
+        margin-bottom: 4px !important;
+    }
+
+    .instaed-arrow {
+        height: 24px;
+        width: 26px;
+        min-width: 26px;
+    }
+
+    .instaed-arrow i {
+        font-size: 0.7rem !important;
+    }
+
+    #Contact {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+
+    .our-div-3 {
+        width: 130px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+    }
+
+    .our-div-3 span {
+        font-size: 0.65rem;
+    }
+
+    .services-header-3 h2 {
+        font-size: 2rem;
+        margin-top: 8px;
+    }
+
+    .services-header-3 h3 {
+        font-size: 2rem;
+        transform: translateY(-4px);
+    }
+
+    .services-header-3 p {
+        font-size: 0.85rem;
+    }
+
+    .the-contact-container {
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 25px;
+        border-radius: 12px;
+    }
+
+    .consultation-div {
+        padding: 14px;
+    }
+
+    .consultation-div h3 {
+        font-size: 1rem;
+    }
+
+    .consultation-div p {
+        font-size: 0.8rem;
+        margin-top: 2px;
+    }
+
+    .the-contact-container .Special-input input
+ {
+        height: 38px;
+        border-radius: 10px;
+        font-size: 0.75rem;
+        padding-left: 10px !important;
+        margin-bottom: 8px;
+        border-width: 1.5px !important;
+    }
+  
+    .the-contact-container form select
+     {
+        height: 38px;
+        border-radius: 10px;
+        font-size: 0.75rem;
+        padding-left: 10px !important;
+        margin-bottom: 8px;
+        border-width: 1.5px !important;
+    }
+
+    .the-contact-container form textarea {
+        height: 38px;
+        border-radius: 10px;
+        font-size: 0.75rem;
+        padding-left: 10px !important;
+        margin-bottom: 8px;
+        border-width: 1.5px !important;
+    }
+
+    .the-contact-container form textarea {
+        height: 80px;
+        padding-top: 10px !important;
+    }
+
+    .the-contact-container form label {
+        font-size: 0.7rem;
+    }
+
+    .Salary-sections {
+        margin-top: 2px;
+    }
+
+    .budget-card {
+        padding: 8px 10px;
+        border-radius: 8px;
+        border-width: 1.5px;
+        margin-bottom: 6px;
+    }
+
+    .budget-card h5 {
+        font-size: 0.75rem;
+    }
+
+    .budget-card p {
+        font-size: 0.65rem;
+    }
+
+    .the-contact-container .form-check .form-check-input {
+        width: 16px;
+        height: 16px;
+        margin-right: 5px;
+    }
+
+    .the-contact-container .form-check label {
+        font-size: 0.7rem;
+    }
+
+    .Satisfaction-div {
+        padding: 16px;
+        border-radius: 0 0 12px 12px;
+    }
+
+    .Satisfaction-div h2 {
+        font-size: 1rem;
+    }
+
+    .Expert-team-sectoin {
+        margin-top: 16px;
+    }
+
+    .clock-square {
+        width: 40px;
+        height: 28px;
+        border-radius: 8px;
+    }
+
+    .clock-square-2{
+        width: 40px;
+        height: 28px;
+        border-radius: 8px;
+    }
+
+    .clock-square-3 {
+        width: 40px;
+        height: 28px;
+        border-radius: 8px;
+    }
+
+    .hours-letters {
+        margin-left: 8px;
+        margin-top: 2px;
+    }
+
+    .hours-letters h3 {
+        font-size: 0.7rem;
+    }
+
+    .hours-letters p {
+        font-size: 0.6rem;
+    }
+
+    .direct-contacts {
+        margin-top: 14px;
+        padding-top: 16px;
+        border-top-width: 1px;
+    }
+
+    .direct-contacts h3 {
+        font-size: 0.75rem;
+    }
+
+    .direct-contacts span {
+        font-size: 0.7rem;
+        margin-bottom: 6px;
+    }
+
+    .the-contact-container form .btn {
+        height: 40px;
+        font-size: 0.8rem;
+        border-radius: 10px;
+        margin-top: 10px;
+    }
+
+    #footer {
+        padding-top: 20px;
+    }
+
+    .the-footer-header {
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-bottom: 16px;
+        flex-direction: column;
+        align-items: center !important;
+        text-align: center;
+    }
+
+    .last-footer-square {
+        height: 26px;
+        width: 26px;
+        border-radius: 7px;
+    }
+
+    .ddive h3 {
+        font-size: 0.85rem;
+        margin-left: 5px;
+        margin-top: 6px;
+    }
+
+    .hullbreaker p {
+        font-size: 0.7rem;
+        margin-top: 2px;
+    }
+
+    .social-media {
+        justify-content: center;
+        margin-top: 10px;
+    }
+
+    .social-square {
+        width: 28px;
+        height: 28px;
+        margin-right: 6px;
+        border-radius: 6px;
+    }
+
+    .social-square i {
+        font-size: 0.7rem !important;
+    }
+
+    .last-stand {
+        width: 100%;
+        padding-top: 16px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .last-stand h3 {
+        font-size: 0.65rem;
+    }
+
+    .last-stand p {
+        font-size: 0.55rem;
+        margin-top: 2px;
+    }
+}
+
+
+@media screen and (max-width: 767.98px) and (min-width: 700px) {
+
+
+    .navbar {
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+        height: 72px !important;
+    }
+    .navbar .dropdown-menu {
+        width: 100%;
+        left: 0 !important;
+        right: 0 !important;
+        transform: translateX(0) !important;
+    }
+    .mega-menu {
+        left: 0 !important;
+        width: 100% !important;
+        padding: 20px !important;
+    }
+    .the-first-dropdown {
+        margin-right: 0;
+    }
+    .drop-web-develop-2 {
+        width: 100%;
+        height: auto;
+    }
+
+    .hero-cotainer {
+        width: 92%;
+        padding-top: 40px;
+    }
+    .left-hero-container {
+        width: 100%;
+        text-align: center;
+    }
+    .left-hero-container h3 {
+        font-size: 2.8rem;
+    }
+
+    .left-hero-container h4{
+        font-size: 2.8rem;
+    }
+
+    .left-hero-container .h5-special {
+        font-size: 2.8rem;
+    }
+    .left-hero-container .p-special {
+        font-size: 1.1rem;
+    }
+    .Digital-Experience {
+        margin: 0 auto;
+        width: 240px;
+    }
+    .right-container-buttons {
+        justify-content: center !important;
+    }
+    .right-container-buttons .btn {
+        width: 220px;
+        height: 56px;
+        font-size: 1rem;
+    }
+    .Watch-demo-btn {
+        width: 190px !important;
+        font-size: 1rem !important;
+    }
+    .Clitent-satisication {
+        justify-content: center !important;
+    }
+    .Clitent-satisication h5 {
+        font-size: 1.5rem;
+        margin-left: 15px;
+    }
+    .Right-hero-container {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 1 / 1;
+        max-width: 500px;
+        margin: 30px auto 0;
+        padding: 20px;
+    }
+    .behind-the-scene {
+        width: 100%;
+        height: 100%;
+        max-width: 500px;
+        max-height: 500px;
+        top: 12px;
+        left: 0;
+        transform: rotate(2deg);
+    }
+    .the-first-here-square {
+        width: 70px;
+        height: 70px;
+        transform: translate(12px, -4px);
+    }
+    .the-second-here-square {
+        width: 60px;
+        height: 60px;
+        transform: translate(-12px, -6px);
+    }
+
+    .collection-groupe {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .collection-groupe .card {
+        width: 100%;
+        height: auto !important;
+        min-height: 320px;
+    }
+    .services-header h2 {
+        font-size: 2.4rem;
+    }
+
+    .technology .slider-tabs {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .technology .slider-tabs .card {
+        width: 100%;
+        height: auto;
+        min-height: 270px;
+    }
+    .technology .slider-tabs ul li {
+        width: 100%;
+    }
+
+    .Testimonials .carousel-inner {
+        width: 100%;
+        height: auto;
+        padding: 30px 24px;
+    }
+    .the-final-slider blockquote {
+        font-size: 1.1rem;
+    }
+    .footer-profile-photo {
+        width: 70px;
+        height: 70px;
+    }
+    .CV-div h3 {
+        font-size: 1rem;
+    }
+    .CV-div h4 {
+        font-size: 0.9rem;
+    }
+
+    .the-FAQ-list .accordion {
+        width: 100%;
+    }
+    .the-FAQ-list .accordion-item button {
+        padding: 28px 18px !important;
+        font-size: 1rem;
+    }
+
+    .the-contact-container {
+        width: 96%;
+        flex-direction: column;
+    }
+    .consultation-div {
+        width: 100%;
+        padding: 30px 20px;
+    }
+    .Satisfaction-div {
+        width: 100%;
+        height: auto;
+        border-radius: 0 0 16px 16px;
+        padding: 30px 24px;
+    }
+    .budget-card {
+        width: 48%;
+        margin-bottom: 10px;
+    }
+    .services-header-3 h2
+ {
+        font-size: 3rem;
+    }
+
+    .services-header-3 h3 {
+        font-size: 3rem;
+    }
+    .services-header-3 h3 {
+        transform: translateY(-8px);
+    }
+
+    .the-footer-header {
+        width: 94%;
+    }
+    .last-stand {
+        width: 94%;
+    }
+    .social-square {
+        width: 36px;
+        height: 36px;
+        margin-right: 10px;
+    }
+    .ddive h3 {
+        font-size: 1.1rem;
+    }
+}
+
+
+@media screen and (max-width: 575.98px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .container
+ {
+        padding-left: 12px !important;
+        padding-right: 12px !important;
+    }
+
+    .container-fluid {
+        padding-left: 12px !important;
+        padding-right: 12px !important;
+    }
+
+    .navbar {
+        padding-left: 12px !important;
+        padding-right: 12px !important;
+        height: 64px !important;
+    }
+    .navbar-brand {
+        transform: none !important;
+    }
+    .clart {
+        font-size: 1.2rem;
+    }
+    .navsquare {
+        height: 32px;
+        width: 32px;
+        border-radius: 10px;
+        transform: none !important;
+    }
+    .navbar button {
+        width: 120px;
+        height: 40px;
+        font-size: 0.8rem;
+        transform: none !important;
+    }
+    .navbar form h5 {
+        font-size: 0.75rem;
+        transform: none !important;
+    }
+    .navbar .dropdown-menu {
+        width: 100% !important;
+        left: 0 !important;
+        right: 0 !important;
+        transform: none !important;
+        border-radius: 12px;
+        padding: 16px !important;
+    }
+    .mega-menu {
+        left: 0 !important;
+        width: 100% !important;
+        padding: 16px !important;
+        position: static !important;
+        box-shadow: none !important;
+        border-radius: 12px;
+    }
+    .the-first-dropdown {
+        margin-right: 0;
+    }
+    .drop-web-develop {
+        padding: 10px 12px;
+    }
+    .drop-web-develop-2 {
+        width: 100%;
+        height: auto;
+        min-height: 120px;
+        padding: 14px;
+    }
+    .text-word-down {
+        margin-left: 10px;
+    }
+    .text-word-down h3 {
+        font-size: 0.9rem;
+    }
+    .text-word-down p {
+        font-size: 0.75rem;
+    }
+    .collapse ul li a {
+        font-size: 0.9rem !important;
+    }
+    .navbar .navbar-toggler {
+        border: none;
+        padding: 4px 8px;
+    }
+    .navbar .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-collapse {
+        background: #fff;
+        padding: 12px 16px;
+        border-radius: 14px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+        margin-top: 8px;
+        max-height: 80vh;
+        overflow-y: auto;
+    }
+    .navbar .dropdown-menu.show {
+        animation: none;
+        opacity: 1;
+        transform: none;
+    }
+    .mega-menu .row {
+        flex-direction: column !important;
+    }
+    .mega-menu .col-lg-4 {
+        width: 100% !important;
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+
+    .mega-menu .col-lg-8 {
+        width: 100% !important;
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+
+    .hero {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+    .hero-cotainer {
+        width: 100% !important;
+        padding: 0 8px !important;
+        padding-top: 20px;
+    }
+    .left-hero-container {
+        width: 100% !important;
+        text-align: center;
+    }
+    .left-hero-container h3 {
+        font-size: 2.2rem !important;
+        line-height: 1.2;
+    }
+
+    .left-hero-container h4 {
+        font-size: 2.2rem !important;
+        line-height: 1.2;
+    }
+
+    .left-hero-container .h5-special {
+        font-size: 2.2rem !important;
+        line-height: 1.2;
+    }
+    .left-hero-container .p-special {
+        font-size: 1rem !important;
+        padding: 0 4px;
+    }
+    .Digital-Experience {
+        margin: 0 auto 16px;
+        width: 200px;
+        font-size: 12px;
+        padding: 4px 12px;
+    }
+    .Digital-Experience p {
+        transform: none !important;
+    }
+    .right-container-buttons {
+        flex-direction: column !important;
+        align-items: center !important;
+        gap: 12px !important;
+    }
+    .right-container-buttons .btn {
+        width: 100% !important;
+        max-width: 280px;
+        height: 52px;
+        font-size: 0.95rem;
+    }
+    .Watch-demo-btn {
+        width: 100% !important;
+        max-width: 280px !important;
+        font-size: 0.95rem !important;
+    }
+    .Clitent-satisication {
+        flex-direction: column !important;
+        align-items: center !important;
+        gap: 4px;
+    }
+    .Clitent-satisication h5 {
+        font-size: 1.4rem;
+        margin-left: 0 !important;
+    }
+    .Clitent-satisication p {
+        font-size: 0.9rem;
+        text-align: center;
+    }
+    .Right-hero-container {
+        width: 100% !important;
+        height: auto;
+        aspect-ratio: 1 / 1;
+        max-width: 380px;
+        margin: 24px auto 0;
+        padding: 16px;
+        border-radius: 18px;
+    }
+    .behind-the-scene {
+        width: 100% !important;
+        height: 100% !important;
+        max-width: 380px;
+        max-height: 380px;
+        top: 8px;
+        left: 0;
+        transform: rotate(1.5deg);
+        border-radius: 18px;
+    }
+    .the-first-here-square {
+        width: 50px;
+        height: 50px;
+        transform: translate(6px, -2px);
+        border-radius: 10px;
+    }
+    .the-second-here-square {
+        width: 44px;
+        height: 44px;
+        transform: translate(-6px, -4px);
+        border-radius: 10px;
+    }
+    .Right-hero-container img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 12px;
+    }
+
+    #services {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    .services-header h2 {
+        font-size: 2rem;
+    }
+    .services-header p {
+        font-size: 1rem;
+        padding: 0 8px;
+    }
+    .our-div {
+        width: 120px;
+        font-size: 0.75rem;
+        padding: 3px 12px;
+    }
+    .our-div span {
+        font-size: 0.75rem;
+    }
+    .collection-groupe {
+        padding: 0 !important;
+        margin-top: 24px;
+        width: 100% !important;
+    }
+    .collection-groupe .card {
+        width: 100% !important;
+        height: auto !important;
+        min-height: 260px;
+        padding: 20px;
+        margin: 0 0 16px 0 !important;
+        border-radius: 14px;
+    }
+    .collection-groupe .card h3 {
+        font-size: 1.1rem;
+        margin-top: 16px;
+    }
+    .collection-groupe .card p {
+        font-size: 0.9rem;
+    }
+    .collection-groupe .card ul {
+        font-size: 0.8rem;
+        padding-left: 0;
+    }
+    .collection-groupe .card h4 {
+        font-size: 14px;
+        transform: translateY(6px);
+    }
+    .first-card-square {
+        width: 48px;
+        height: 48px;
+    }
+
+    .Second-card-square {
+        width: 48px;
+        height: 48px;
+    }
+
+    .third-card-square {
+        width: 48px;
+        height: 48px;
+    }
+
+    .fourth-card-square{
+        width: 48px;
+        height: 48px;
+    }
+
+    .fifth-card-square {
+        width: 48px;
+        height: 48px;
+    }
+
+    #technology {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .our-div-2 {
+        width: 140px;
+        font-size: 0.75rem;
+        padding: 3px 12px;
+    }
+    .our-div-2 span {
+        font-size: 0.75rem;
+    }
+    .technology .slider-tabs {
+        padding: 0 !important;
+        margin-top: 30px;
+        width: 100% !important;
+    }
+    .technology .slider-tabs .card {
+        width: 100% !important;
+        height: auto;
+        min-height: 220px;
+        padding: 20px;
+        margin: 0 0 16px 0 !important;
+        border-radius: 14px;
+    }
+    .technology .slider-tabs h2 {
+        font-size: 1.2rem;
+    }
+    .technology .slider-tabs p {
+        font-size: 0.95rem;
+    }
+    .technology .card h3 {
+        font-size: 1.05rem;
+        margin-top: 16px;
+    }
+    .technology .card h4 {
+        font-size: 0.9rem;
+    }
+    .technology .slider-tabs ul li {
+        width: 100%;
+    }
+    .technology .slider-tabs ul li button {
+        font-size: 0.9rem;
+        padding: 14px 12px;
+        width: 100%;
+        border-bottom: 1px solid #f0f0f0;
+    }
+
+.js-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Next-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Vue-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Angular-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Tailwind-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Vite-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Node-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Python-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Golang-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Java-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Core-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Ruby-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Native-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Flutter-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.iOS-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Android-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Xamarin-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.PWA-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Amazon-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Microsoft-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Google-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Docker-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Kubernetes-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Pipeline-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.PostgreSQL-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.MongoDB-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Streams-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.MySQL-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.Elasticsearch-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.GraphQL-square {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 0.75rem !important;
+    border-radius: 12px !important;
+}
+
+.js-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Next-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Vue-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Angular-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Tailwind-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Vite-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Node-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Python-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Golang-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Java-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Core-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Ruby-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Native-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Flutter-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.iOS-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Android-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Xamarin-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.PWA-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Amazon-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Microsoft-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Google-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Docker-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Kubernetes-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Pipeline-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.PostgreSQL-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.MongoDB-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Streams-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.MySQL-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.Elasticsearch-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+.GraphQL-span-collection span {
+    font-size: 0.6rem !important;
+    padding: 2px 10px !important;
+    margin-right: 4px !important;
+    display: inline-block;
+}
+
+    #Testimonials {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .Testimonials .carousel-inner {
+        width: 100% !important;
+        height: auto !important;
+        padding: 24px 16px;
+        border-radius: 14px;
+        margin: 0 auto;
+    }
+    .the-final-slider {
+        margin-top: 24px;
+    }
+    .the-final-slider blockquote {
+        font-size: 0.95rem;
+        line-height: 1.5;
+    }
+    .final-square {
+        width: 48px;
+        height: 48px;
+        border-radius: 12px;
+    }
+    .footer-profile-photo {
+        width: 56px;
+        height: 56px;
+        margin-top: 16px;
+    }
+    .CV-div {
+        margin-top: 16px;
+        margin-left: 8px;
+    }
+    .CV-div h3 {
+        font-size: 0.95rem;
+    }
+    .CV-div h4 {
+        font-size: 0.8rem;
+    }
+    .CV-div p {
+        font-size: 12px;
+    }
+    .second-footer-part {
+        margin-top: 24px;
+    }
+    .second-footer-part h3 {
+        font-size: 1.4rem;
+    }
+    .second-footer-part p {
+        font-size: 12px;
+    }
+    .verified-dev {
+        width: 96px;
+        height: 32px;
+        font-size: 0.7rem;
+        padding: 8px 6px;
+        margin-top: 10px;
+    }
+    .rounded-check-mark {
+        height: 10px;
+        width: 10px;
+        margin-right: 6px;
+    }
+    .super-starts p {
+        font-size: 0.75rem;
+    }
+    .the-final-square-footer::before {
+        width: 85%;
+    }
+    .the-moving-checkmark {
+        width: 22px;
+        height: 22px;
+        bottom: 6px;
+        left: 40px;
+    }
+    .Testimonials .carousel-indicators {
+        gap: 6px;
+        margin-top: 16px;
+    }
+    .Testimonials .carousel-indicators button {
+        width: 6px !important;
+        height: 6px !important;
+    }
+    .Testimonials .carousel-indicators button:hover {
+        width: 24px !important;
+    }
+
+    #FAQ {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .services-header h3 {
+        font-size: 2rem;
+    }
+    .the-FAQ-list {
+        margin-top: 30px;
+    }
+    .the-FAQ-list .accordion {
+        width: 100% !important;
+        margin-top: 12px;
+        padding: 0 !important;
+    }
+    .the-FAQ-list .accordion-item {
+        border-radius: 14px !important;
+        margin-bottom: 12px;
+    }
+    .the-FAQ-list .accordion-item button {
+        padding: 18px 14px !important;
+        font-size: 0.9rem;
+        letter-spacing: 0.3px;
+        border-radius: 14px !important;
+    }
+    .instaed-arrow {
+        height: 30px;
+        width: 32px;
+    }
+    .instaed-arrow i {
+        font-size: 0.8rem;
+    }
+    .the-FAQ-list .accordion-body {
+        font-size: 0.9rem;
+        padding: 0 14px 18px;
+    }
+    .our-div-3 {
+        width: 80px;
+        font-size: 0.75rem;
+        padding: 3px 12px;
+    }
+    .our-div-3 span {
+        font-size: 0.75rem;
+    }
+
+    #Contact {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .services-header-3 h2 {
+        font-size: 2.4rem;
+        margin-top: 12px;
+    }
+    .services-header-3 h3 {
+        font-size: 2.4rem;
+        transform: translateY(-4px);
+    }
+    .services-header-3 p {
+        font-size: 1rem;
+        padding: 0 6px;
+    }
+    .the-contact-container {
+        width: 100% !important;
+        margin-top: 30px;
+        flex-direction: column;
+        border-radius: 16px;
+        padding: 0 !important;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    }
+    .consultation-div {
+        width: 100% !important;
+        padding: 24px 16px;
+    }
+    .consultation-div h3 {
+        font-size: 1.2rem;
+    }
+    .consultation-div p {
+        font-size: 0.95rem;
+    }
+    .the-contact-container .Special-input input {
+        height: 48px;
+        border-radius: 12px;
+        font-size: 0.9rem;
+        padding-left: 14px !important;
+        margin-bottom: 10px;
+        width: 100% !important;
+    }
+
+    .the-contact-container form select {
+        height: 48px;
+        border-radius: 12px;
+        font-size: 0.9rem;
+        padding-left: 14px !important;
+        margin-bottom: 10px;
+        width: 100% !important;
+    }
+    .the-contact-container form textarea {
+        height: 120px;
+        border-radius: 12px;
+        font-size: 0.9rem;
+        padding-left: 14px !important;
+        padding-top: 14px !important;
+        margin-bottom: 10px;
+        width: 100% !important;
+    }
+    .Salary-sections {
+        flex-wrap: wrap;
+        gap: 8px;
+        justify-content: space-between;
+    }
+    .budget-card {
+        width: 48% !important;
+        min-width: 100px;
+        height: auto;
+        padding: 12px 8px;
+        border-radius: 12px;
+        margin-bottom: 8px;
+    }
+    .budget-card h5 {
+        font-size: 0.85rem;
+    }
+    .budget-card p {
+        font-size: 0.7rem;
+    }
+    .the-contact-container .form-check .form-check-input {
+        width: 18px;
+        height: 18px;
+        margin-right: 6px;
+    }
+    .the-contact-container .form-check label {
+        font-size: 12px;
+    }
+    .the-contact-container form .btn {
+        height: 52px;
+        font-size: 1rem;
+        margin-top: 12px;
+        border-radius: 12px;
+        width: 100% !important;
+    }
+    .Satisfaction-div {
+        width: 100% !important;
+        height: auto;
+        border-radius: 0 0 16px 16px;
+        padding: 24px 18px;
+    }
+    .Satisfaction-div h2 {
+        font-size: 1.2rem;
+    }
+    .clock-square {
+        width: 56px;
+        height: 38px;
+        border-radius: 10px;
+    }
+
+    .clock-square-2 {
+        width: 56px;
+        height: 38px;
+        border-radius: 10px;
+    }
+
+    .clock-square-3 {
+        width: 56px;
+        height: 38px;
+        border-radius: 10px;
+    }
+    .hours-letters {
+        margin-left: 10px;
+        margin-top: 4px;
+    }
+    .hours-letters h3 {
+        font-size: 0.85rem;
+    }
+    .hours-letters p {
+        font-size: 12px;
+    }
+    .direct-contacts {
+        margin-top: 16px;
+        padding-top: 20px;
+    }
+    .direct-contacts h3 {
+        font-size: 0.85rem;
+    }
+    .direct-contacts span {
+        font-size: 0.85rem;
+        margin-bottom: 8px;
+        display: block;
+    }
+    .Expert-team-sectoin {
+        margin-top: 18px;
+    }
+
+    #footer {
+        padding-top: 30px;
+    }
+    .the-footer-header {
+        width: 100% !important;
+        padding: 0 8px;
+        margin-bottom: 20px;
+        flex-direction: column !important;
+        align-items: center !important;
+        text-align: center;
+    }
+    .ddive {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+    .ddive h3 {
+        font-size: 1rem;
+        margin-left: 0;
+        margin-top: 6px;
+    }
+    .last-footer-square {
+        height: 34px;
+        width: 34px;
+        border-radius: 10px;
+    }
+    .hullbreaker p {
+        font-size: 0.8rem;
+        text-align: center;
+        padding: 0 8px;
+    }
+    .social-media {
+        justify-content: center;
+        margin-top: 12px;
+    }
+    .social-square {
+        width: 34px;
+        height: 34px;
+        margin-right: 10px;
+    }
+    .social-square i {
+        font-size: 0.85rem !important;
+    }
+    .last-stand {
+        width: 100% !important;
+        padding: 20px 8px 0;
+    }
+    .last-stand h3 {
+        font-size: 0.75rem;
+    }
+    .last-stand p {
+        font-size: 0.65rem;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .row {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+    .row > [class*="col-"] {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+
+    .row .card {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+}
